@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AdvancedListViewExample</string>
+    <string-array name="textss">
+        <item> Apple</item>
+        <item> Ball</item>
+        <item> Cat</item>
+        <item> Dog</item>
+        <item> Elephant</item>
+        <item> Frog</item>
+        <item> Ginger</item>
+        <item> Hen</item>
+        <item> Iron</item>
+        <item> Jaguar</item>
+        <item> Kotlin</item>
+        <item> Lion</item>
+
+
+
+    </string-array>
+</resources>
